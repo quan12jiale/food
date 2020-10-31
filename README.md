@@ -5,11 +5,40 @@
 </details>
 
 ## 目录
+* [小鸡炖蘑菇](#StewedMushroomWithChicken)
 * [鸡腿肉烧毛豆](#ChickenLegBraisedGreenBeans)
 * [咖喱鸡肉土豆](#CurryChickenPotato)
 * [青椒炒鸡蛋](#PepperFriedEgg)
 * [土豆炒肉丝](#PotatoesFriedPork)
 * [蛋炒饭](#EggFriedRice)
+
+<a id="StewedMushroomWithChicken"></a>
+
+## 小鸡炖蘑菇
+
+### 原料准备
+
+| 主料      |
+|-----------|
+| 红薯粉条50g |
+| 榛蘑50g     |
+| 鸡肉        |
+
+| 辅料      |
+|-----------|
+| 料酒      |
+| 油        |
+| 生抽      |
+| 老抽      |
+| 盐        |
+
+### 正式制作
+
+1. 红薯粉条50g放入盆中加入温水浸泡10分钟；
+2. 榛蘑50g放入盆中加入温水浸泡10分钟，清洗干净；
+3. 将鸡块冷水下锅焯水1分钟，加入适量的料酒去腥，焯好水之后倒出控水备用；
+4. 加入水、鸡肉、油、老抽3g、生抽10g，烧开之后，加入盐3g、榛蘑，转小火炖20分钟；
+5. 20分钟之后加入泡好的粉条，将其煮熟煮软，约2分钟，即可出锅。
 
 <a id="ChickenLegBraisedGreenBeans"></a>
 
